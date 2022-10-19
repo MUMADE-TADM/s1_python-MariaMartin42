@@ -4,4 +4,6 @@ Repositorio para la sesión 1 (19/10/2022)
 
 Si no conoces git pásate por [Learn Git Branching](https://learngitbranching.js.org/).
 
-Autor: María Martín-Moreno Alises
+Autora: María Martín-Moreno Alises
+
+Fecha: 19 de Octubre de 2022
